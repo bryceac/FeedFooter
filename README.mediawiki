@@ -12,7 +12,7 @@ If you are encountering issues, feel free to let me know at the address below.
 
 '''E-mail:''' habari@brycecampbell.me
 
-Please include plugin name in Subject field, so I where to look.
+Please include plugin name in Subject field, so I know where to look.
 
 ==License==
 
