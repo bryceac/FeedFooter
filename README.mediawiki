@@ -1,0 +1,23 @@
+'''Author:''' Bryce
+'''Version:''' 0.1
+'''Copyright:''' 2013 Bryce Campbell
+
+==Description==
+
+This plugin places a footer message at the post of entries in Habari's Atom feeds.
+
+==Support==
+
+If you are encountering issues, feel free to let me know at the address below.
+
+'''E-mail:''' habari@brycecampbell.me
+
+Please include plugin name in Subject field, so I where to look.
+
+==License==
+
+This plugin is licensed under the [http://opensource.org/licenses/MIT MIT License].
+
+==Misc.==
+
+This plugin has been tested with Habari 0.9. It is not certain if it will work in earlier versions.
